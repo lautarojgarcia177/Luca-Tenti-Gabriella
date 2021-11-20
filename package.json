@@ -1,0 +1,17 @@
+{
+  "name": "coderhouse-dw-luca-tenti",
+  "version": "1.0.0",
+  "description": "Proyecto Final para el curso de Coderhouse Desarrollo Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "sass scss/styles.scss css/styles.css",
+    "watch-css": "sass --watch scss/styles.scss css/styles.css"
+  },
+  "author": "Lucas Tenti",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.43.4"
+  }
+}
